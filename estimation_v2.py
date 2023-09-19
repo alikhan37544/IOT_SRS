@@ -2,7 +2,7 @@
 
 import RPi.GPIO as GPIO
 import time
-import math
+import math 
 
 # Define the GPIO pins for the ultrasonic sensors
 sensor_pins = [4, 17, 18]  # Example GPIO pins, adjust as needed
